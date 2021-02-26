@@ -1,1 +1,1 @@
-This is wintersun's first git git project:)
+This is Alex' first git project:)
